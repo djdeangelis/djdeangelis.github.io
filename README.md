@@ -17,6 +17,8 @@ Now includes **Dark Mode**
 
 You can view the project [roadmap here](https://github.com/sproogen/modern-resume-theme/projects/1).
 
+## Hello, world!
+
 ## Installation & setup guide
 This template is designed to be hosted using GitHub pages and so that's what these instructions will cover. If you plan on hosting it seperately then there might be some extra steps that we wont cover.
 
