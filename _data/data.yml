@@ -143,40 +143,46 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Scientific publications based on my physics graduate work.
     papers:
+      - title: Isoscalar E2 Strength in <sup>12</sup>C from the (e,e'α) Reaction
+        link: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.2872"
+        authors: D. J. DeAngelis, J. R. Calarco, J. E. Wise, H. J. Emrich, R. Neuhausen, and H. Weyand
+        conference: Phys. Rev. Lett. 70, 2872 (1993)
+
       - title: Multipole Strength in <sup>12</sup>C from the (e,e'α) Reaction
         link: "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.52.61"
-        authors: D. J. DeAngelis, J. R. Calarco, J. E. Wise, H. J. Emrich, R. Neuhausen, and H. Weyand, Phys. Rev. C 52, 61 (1995). 
+        authors: D. J. DeAngelis, J. R. Calarco, J. E. Wise, H. J. Emrich, R. Neuhausen, and H. Weyand
         conference: Phys. Rev. C 52, 61 (1995)
-     
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Quasielastic Scattering of Polarized Electrons from Polarized <sup>3</sup>He and Measurement of the Neutron's Form Factor
+        link: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.68.2901"
+        authors: A. K. Thompson, A. M. Bernstein, T. E. Chupp, D. J. DeAngelis, G. E. Dodge, G. Dodson, K. A. Dow, M. Farkhondeh, W. Fong, J. Y. Kim, R. A. Loveman, J. M. Richardson, H. Schmieden, D. R. Tieger, T. C. Yates, M. E. Wagshul,
+and J. D. Zumbro
+        conference: Phys. Rev. Lett. 68, 2901 (1992)
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: High Resolution Electron Scattering from High Spin States in <sup>208</sup>Pb
+        link: "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.45.2711"
+        authors: J. P. Connelly, D. J. DeAngelis, J. H. Heisenberg, F. W. Hersman, W. Kim, M. Leuschner, T. E. Milliman, J. E. Wise, and C. N. Papanicolas
+        conference: Phys. Rev. C 45, 2711 (1992)
+
+      - title: Two-nucleon Knock-out Investigated with the Semi-exclusive <sup>12</sup>C(e,e'p) Reaction
+        link: "https://www.sciencedirect.com/science/article/abs/pii/037026939401583X"
+        authors: L. J. H. M. Kester, W. H. A. Hesselink, N. Kalantar-Nayestanaki, J. H. Mitchell, A. Pellegrino, E. Jans, J. Konijn, J. J. M. Steijger, J. L. Visschers, A. Zondervan, J. R. Calarco,
+D. J. DeAngelis, F. W. Hersman, W. Kim, Th. S. Bauer, M. W. Kelder, Z. Papandreou, J. Ryckebusch, C. Ciofi degli Atti, S. Simula
+        conference: Phys. Lett. B 344, 79 (1995)
+
 patents:
     title: Patents
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Patent contributions as a product manager and technical writer.
     patent:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Systems and methods for managing data incidents
+        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9,781,147.PN.&OS=PN/9,781,147&RS=PN/9,781,147"
+        inventors: Sher-Jan M, Rook S, Kotka G, Migliore A, Cannon T, Cleek B, Church N, DeAngelis D
+        assignee: RADAR, Inc.
+        number: United States patent US 9,781,147
+        date: 2017 Oct 3
 skills:
     title: Skills &amp; Proficiency
 
