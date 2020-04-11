@@ -16,7 +16,7 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for patent in patents.patent %}
+  {% for patent in patents.invention %}
   <div class="item">
     {% if patent.link %}
      <span>{{ patent.inventors }}, inventors; {{ patent.assignee }}, assignee. <a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a>. {{ patent.number }}. {{ patent.date }}.</span> 

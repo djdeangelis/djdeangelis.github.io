@@ -137,6 +137,7 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 publications:
     title: Publications
     intro: |
@@ -147,12 +148,12 @@ publications:
         authors: D. J. DeAngelis, J. R. Calarco, J. E. Wise, H. J. Emrich, R. Neuhausen, and H. Weyand
         conference: Phys. Rev. Lett. 70, 2872 (1993)
 
-      - title: Multipole Strength in <sup>12</sup>C from the (e,e'α) Reaction
+      - title: Multipole Strength in <sup>12</sup>C from the (e,e'α) Reaction for Momentum Transfers up to 0.61 fm<sup>−1</sup>
         link: "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.52.61"
         authors: D. J. DeAngelis, J. R. Calarco, J. E. Wise, H. J. Emrich, R. Neuhausen, and H. Weyand
         conference: Phys. Rev. C 52, 61 (1995)
 
-      - title: Quasielastic Scattering of Polarized Electrons from Polarized <sup>3</sup>He and Measurement of the Neutron's Form Factor
+      - title: Quasielastic Scattering of Polarized Electrons from Polarized <sup>3</sup>He and Measurement of the Neutron's Form Factors
         link: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.68.2901"
         authors: A. K. Thompson, A. M. Bernstein, T. E. Chupp, D. J. DeAngelis, G. E. Dodge, G. Dodson, K. A. Dow, M. Farkhondeh, W. Fong, J. Y. Kim, R. A. Loveman, J. M. Richardson, H. Schmieden, D. R. Tieger, T. C. Yates, M. E. Wagshul, and J. D. Zumbro
         conference: Phys. Rev. Lett. 68, 2901 (1992)
@@ -171,7 +172,7 @@ patents:
     title: Patents
     intro: |
       Patent contributions as a technical writer and product manager.
-    patent:
+    invention:
       - title: Common communication system for control instruments
         link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6,993,772.PN.&OS=PN/6,993,772&RS=PN/6,993,772"
         inventors: Pike M, Lurie R, Dean L, Portal C, DeAngelis D, Kalashian D
@@ -182,14 +183,14 @@ patents:
       - title: Systems and methods for managing data incidents
         link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9,781,147.PN.&OS=PN/9,781,147&RS=PN/9,781,147"
         inventors: Sher-Jan M, Rook S, Kotka G, Migliore A, Cannon T, Cleek B, Church N, DeAngelis D
-        assignee: RADAR, LLC.
+        assignee: RADAR, LLC
         number: United States patent US 9,781,147
         date: 2017 Oct 3
 
       - title: Systems and methods for managing multifaceted data incidents
         link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10,331,904.PN.&OS=PN/10,331,904&RS=PN/10,331,904"
         inventors: Sher-Jan M, Migliore A, Church N, DeAngelis D, Brown, R
-        assignee: RADAR, LLC.
+        assignee: RADAR, LLC
         number: United States patent US 10,331,904
         date: 2019 Jun 25
 
