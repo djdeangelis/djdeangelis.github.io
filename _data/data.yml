@@ -175,14 +175,29 @@ D. J. DeAngelis, F. W. Hersman, W. Kim, Th. S. Bauer, M. W. Kelder, Z. Papandreo
 patents:
     title: Patents
     intro: |
-      Patent contributions as a product manager and technical writer.
+      Patent contributions as a technical writer and product manager.
     patent:
+      - title: Common communication system for control instruments
+        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6,993,772.PN.&OS=PN/6,993,772&RS=PN/6,993,772"
+        inventors: Pike M, Lurie R, Dean L, Portal C, DeAngelis D, Kalashian D
+        assignee: The MathWorks, Inc.
+        number: United States patent US 6,993,772
+        date: 2006 Jan 31
+  
       - title: Systems and methods for managing data incidents
         link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9,781,147.PN.&OS=PN/9,781,147&RS=PN/9,781,147"
         inventors: Sher-Jan M, Rook S, Kotka G, Migliore A, Cannon T, Cleek B, Church N, DeAngelis D
-        assignee: RADAR, Inc.
+        assignee: RADAR, LLC.
         number: United States patent US 9,781,147
         date: 2017 Oct 3
+
+      - title: Systems and methods for managing multifaceted data incidents
+        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10,331,904.PN.&OS=PN/10,331,904&RS=PN/10,331,904"
+        inventors: Sher-Jan M, Migliore A, Church N, DeAngelis D, Brown, R
+        assignee: RADAR, LLC.
+        number: United States patent US 10,331,904
+        date: 2019 Jun 25
+
 skills:
     title: Skills &amp; Proficiency
 
