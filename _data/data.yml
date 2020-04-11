@@ -8,37 +8,37 @@ sidebar:
 
     # Profile information
     name: David DeAngelis
-    tagline: Full Stack Developer
+    tagline: Technical Writer | Product Owner
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: 
+    phone: 
+    website: #do not add http://
+    linkedin: 
+    github: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # specify as '@twitter-handle'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: 
+        level: 
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Cooking
         link:
 
-      - item: Snowboarding
+      - item: Biking
+        link:
+
+      - item: Hiking
         link:
 
       - item: Cooking
