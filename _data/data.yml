@@ -25,23 +25,20 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
+      - idiom: English
+        level: Native
 
     interests:
       - item: Cooking
+        link:
+
+      - item: Reading
         link:
 
       - item: Biking
         link:
 
       - item: Hiking
-        link:
-
-      - item: Cooking
         link:
 
 career-profile:
@@ -157,8 +154,7 @@ publications:
 
       - title: Quasielastic Scattering of Polarized Electrons from Polarized <sup>3</sup>He and Measurement of the Neutron's Form Factor
         link: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.68.2901"
-        authors: A. K. Thompson, A. M. Bernstein, T. E. Chupp, D. J. DeAngelis, G. E. Dodge, G. Dodson, K. A. Dow, M. Farkhondeh, W. Fong, J. Y. Kim, R. A. Loveman, J. M. Richardson, H. Schmieden, D. R. Tieger, T. C. Yates, M. E. Wagshul,
-and J. D. Zumbro
+        authors: A. K. Thompson, A. M. Bernstein, T. E. Chupp, D. J. DeAngelis, G. E. Dodge, G. Dodson, K. A. Dow, M. Farkhondeh, W. Fong, J. Y. Kim, R. A. Loveman, J. M. Richardson, H. Schmieden, D. R. Tieger, T. C. Yates, M. E. Wagshul, and J. D. Zumbro
         conference: Phys. Rev. Lett. 68, 2901 (1992)
 
       - title: High Resolution Electron Scattering from High Spin States in <sup>208</sup>Pb
@@ -168,8 +164,7 @@ and J. D. Zumbro
 
       - title: Two-nucleon Knock-out Investigated with the Semi-exclusive <sup>12</sup>C(e,e'p) Reaction
         link: "https://www.sciencedirect.com/science/article/abs/pii/037026939401583X"
-        authors: L. J. H. M. Kester, W. H. A. Hesselink, N. Kalantar-Nayestanaki, J. H. Mitchell, A. Pellegrino, E. Jans, J. Konijn, J. J. M. Steijger, J. L. Visschers, A. Zondervan, J. R. Calarco,
-D. J. DeAngelis, F. W. Hersman, W. Kim, Th. S. Bauer, M. W. Kelder, Z. Papandreou, J. Ryckebusch, C. Ciofi degli Atti, S. Simula
+        authors: L. J. H. M. Kester, W. H. A. Hesselink, N. Kalantar-Nayestanaki, J. H. Mitchell, A. Pellegrino, E. Jans, J. Konijn, J. J. M. Steijger, J. L. Visschers, A. Zondervan, J. R. Calarco, D. J. DeAngelis, F. W. Hersman, W. Kim, Th. S. Bauer, M. W. Kelder, Z. Papandreou, J. Ryckebusch, C. Ciofi degli Atti, S. Simula
         conference: Phys. Lett. B 344, 79 (1995)
 
 patents:
