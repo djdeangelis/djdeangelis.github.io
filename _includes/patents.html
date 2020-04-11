@@ -19,7 +19,7 @@
   {% for patent in patents.patent %}
   <div class="item">
     {% if patent.link %}
-     <span>{{ patent.inventors }}, inventors; {{ patent.assignee }}, assignee. <li><a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a></li>. {{ patent.number }}. {{ patent.date }}.</span> 
+     <span>{{ patent.inventors }}, inventors; {{ patent.assignee }}, assignee. <a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a>. {{ patent.number }}. {{ patent.date }}.</span> 
     {% else %}
     <span>{{ patent.inventors }}, inventors; {{ patent.assignee }}, assignee. {{ patent.title }}. {{ patent.number }}. {{ patent.date }}.</span> 
     {% endif %}
