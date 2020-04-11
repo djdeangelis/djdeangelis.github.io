@@ -147,6 +147,11 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
+      - title: Multipole Strength in <sup>12</sup>C from the (e,e'α) Reaction
+        link: "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.52.61"
+        authors: D. J. DeAngelis, J. R. Calarco, J. E. Wise, H. J. Emrich, R. Neuhausen, and H. Weyand, Phys. Rev. C 52, 61 (1995). 
+        conference: Phys. Rev. C 52, 61 (1995)
+     
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
