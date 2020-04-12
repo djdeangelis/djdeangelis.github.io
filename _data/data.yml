@@ -12,131 +12,201 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 
+    email: djdeangelis1@gmail.com
     phone: 
     website: #do not add http://
     linkedin: 
-    github: https://github.com/djdeangelis
+    github: djdeangelis
     gitlab:
     bitbucket:
     twitter: # specify as '@twitter-handle'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 113047902-david-deangelis # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+#    languages:
+#      - idiom: English
+#        level: Native
 
     interests:
-      - item: Cooking
+      - item: Cooking | Eating
         link:
 
-      - item: Reading
+      - item: Reading | Writing
         link:
 
-      - item: Biking
+      - item: Biking | Hiking
         link:
 
-      - item: Hiking
+      - item: Traveling | Learning
+        link:
+
+      - item: Video | Audio
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Seasoned technical writer and product owner with experience in the test & measurement, 
+      prototyping & collaboration, and GRC spaces. As a technical writer I've creatied online 
+      help systems, API guides, training manuals, video tutorials, data sheets, and other learning 
+      resources. As a product manager I've worked closely with internal and external stakeholders 
+      to understand their requirements and transform them into PRDs, users stories, UI mockups, 
+      and acceptance criteria. Prior to my software career I worked in academia as a researcher 
+      and adjunct instructor, and I've published several scientific papers in peer-reviewed journals.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Physics
+      university: University of New Hampshire
+      time: 1992
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
+        Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BA in physics
+      university: SUNY Oneonta
+      time: 1985
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
+        Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
           - Bullet point
           - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Product Owner | Technical Writer
+      time: October 2018 - present
+      company: Independent contractor, Portland, OR
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Independent contractor providing product management and writing services for several software projects including a SaaS e-Learning platform.
+          - Researched and prioritized product requirements.
+          - Wrote detailed requirements documents, user stories, and acceptance criteria.
+          - Created high-res mockups to help guide designers and developers.
+          - Wrote product positioning brief, website copy, and user-assistance deliverables.
+
+    - role: Senior Product Manager
+      time: June 2014 - July 2018
+      company: RADAR, Portland, OR
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Product manager for RADAR; a SaaS incident response platform for privacy and security professionals.
+          - Owned the product roadmap and presented it at quarterly company meetings.
+          - Led weekly feature prioritization and defect triage meeting.
+          - Communicated product status and managed stakeholder expectations via daily standups, 
+          customer check-ins, and cross-functional team meetings.
+          - Created detailed application prototypes to help visualize new features and workflows.
+          - Created and delivered product training via webinars, video tutorials, and online help.
+          - Wrote project briefs, user stories, acceptance criteria, help articles, and release notes.
+          - Managed the product knowledge base.
+          - Reviewed auto-generated API docs for clarity, correctness, and completeness.
+          - Led biannual customer advisory group meeting.
+          - Coordinated UX effort and represented external stakeholders in UI and UX decisions.
+          - Served as primary resource to help resolve complex customer-reported issues.
+          - Listed as inventor on patents US 9,781,147 and US 10,331,904.
+
+    - role: Co-founder
+      time: April 2012 - June 2014
+      company: Southwood Labs, Portland, OR
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        Independent contractor providing product management and writing services for several software projects including a SaaS e-Learning platform.
+        Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
+          - Researched and prioritized product requirements, and led customer development
+          process for Harness; a SaaS software testing tool for developers.
+          - Created key deliverables including competitor research, lean canvas business model, 
+          product positioning brief, web site copy, and application mockups.
+          
+    - role: Senior Product Manager
+      time: July 2011 - March 2012
+      company: Monsoon Commerce, Portland, OR
+      details: |
+        Product manager for Monsoon; an e-commerce platform for third-party sellers.
+          - Researched and prioritized product requirements.
+          - Managed stakeholder expectations around feature scope and delivery timelines.
+          - Wrote product positioning briefs.
+          - Managed beta program.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Senior Product Manager | Technical Writer
+      time: July 2006 - July 2011
+      company: Site 9, Portland, OR
+      details: |
+        Product manager and technical writer for ProtoShare; a SaaS prototyping and collaboration tool for designers and developers.
+          - Researched and prioritized product requirements.
+          - Wrote detailed project briefs and user stories, and created application prototypes.
+          - Wrote first-generation online help system and designed in-app user assistance.
+          - Created complete suite of video tutorials.
+          - Created and delivered instructional webinars for customers and sales staff.
+          - Designed and created detailed starter project and other out-of-box usability improvements.
+          - Managed beta and early-adopter programs.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - role: Technical Writer | Editor
+      time: August 2003 - September 2006
+      company: Independent contractor, Portland, OR
+      details: |
+        Independent contractor providing writing and editing services.
+          - Edited physics and engineering textbooks for a major academic publisher.
+          - Created first-generation online Help system for dental practice software.
+          - Converted 10,000+ pages of existing documentation to first-generation online help system for medical practice software.
+          - Created first-generation online help system for complex data visualization software.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - role: Principle Technical Writer 
+      time: July 2007 - April 2003
+      company: The MathWorks, Natick, MA
+      details: |
+        Technical writer for multiple software products built on MATLAB; a technical computing platform for scientists and engineers.
+          - Wrote first-generation user guides for test & measurement (TM), math, and control design products.
+          - Researched, wrote, and maintained functional specifications for TM and math products.
+          - Designed and created context-sensitive help for TM and math products.
+          - Planned, authored, and tested customer training course for TM products.
+          - Created video tutorials for control design and math products.
+          - Led documentation and product usability testing.
+          - Listed as inventor on TM patent US 6,993,772.
+    
+    - role: Adjunct Instructor | Technical Writer 
+      time: April 1996 - June 1997
+      company: Independent contractor, Boston, MA
+      details: |
+        Independent contractor providing teaching and writing services.
+          - Taught introductory courses in general physics, business mathematics, and electronics at Emerson College and various junior colleges.
+          - Wrote electronics-related content for process innovation product at Invention Machine, Inc.
+        
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+patents:
+    title: Patents
+    intro: |
+      Patent contributions as a technical writer and product manager.
+    invention:
+      - title: Common communication system for control instruments
+        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6,993,772.PN.&OS=PN/6,993,772&RS=PN/6,993,772"
+        inventors: Pike MP, Lurie RE, Dean LP, Portal CA, DeAngelis DJ, Kalashian DS
+        assignee: The MathWorks, Inc.
+        number: United States patent US 6,993,772
+        date: 2006 Jan 31
+  
+      - title: Systems and methods for managing data incidents
+        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9,781,147.PN.&OS=PN/9,781,147&RS=PN/9,781,147"
+        inventors: Sher-Jan M, Rook SM, Kotka GL, Migliore A, Cannon T, Cleek B, Church NJ, DeAngelis DJ
+        assignee: RADAR, LLC
+        number: United States patent US 9,781,147
+        date: 2017 Oct 3
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Systems and methods for managing multifaceted data incidents
+        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10,331,904.PN.&OS=PN/10,331,904&RS=PN/10,331,904"
+        inventors: Sher-Jan M, Migliore A, Church NJ, DeAngelis DJ, Brown, R
+        assignee: RADAR, LLC
+        number: United States patent US 10,331,904
+        date: 2019 Jun 25
 
 publications:
     title: Publications
@@ -168,52 +238,16 @@ publications:
         authors: L. J. H. M. Kester, W. H. A. Hesselink, N. Kalantar-Nayestanaki, J. H. Mitchell, A. Pellegrino, E. Jans, J. Konijn, J. J. M. Steijger, J. L. Visschers, A. Zondervan, J. R. Calarco, D. J. DeAngelis, F. W. Hersman, W. Kim, Th. S. Bauer, M. W. Kelder, Z. Papandreou, J. Ryckebusch, C. Ciofi degli Atti, S. Simula
         conference: Phys. Lett. B 344, 79 (1995)
 
-patents:
-    title: Patents
-    intro: |
-      Patent contributions as a technical writer and product manager.
-    invention:
-      - title: Common communication system for control instruments
-        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6,993,772.PN.&OS=PN/6,993,772&RS=PN/6,993,772"
-        inventors: Pike MP, Lurie RE, Dean LP, Portal CA, DeAngelis DJ, Kalashian DS
-        assignee: The MathWorks, Inc.
-        number: United States patent US 6,993,772
-        date: 2006 Jan 31
-  
-      - title: Systems and methods for managing data incidents
-        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9,781,147.PN.&OS=PN/9,781,147&RS=PN/9,781,147"
-        inventors: Sher-Jan M, Rook SM, Kotka GL, Migliore A, Cannon T, Cleek B, Church NJ, DeAngelis DJ
-        assignee: RADAR, LLC
-        number: United States patent US 9,781,147
-        date: 2017 Oct 3
-
-      - title: Systems and methods for managing multifaceted data incidents
-        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10,331,904.PN.&OS=PN/10,331,904&RS=PN/10,331,904"
-        inventors: Sher-Jan M, Migliore A, Church NJ, DeAngelis DJ, Brown, R
-        assignee: RADAR, LLC
-        number: United States patent US 10,331,904
-        date: 2019 Jun 25
-
 skills:
-    title: Skills &amp; Proficiency
+    title: Software Tools
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+        Jira, Confluence, Google Drive, Microsoft Office, ProductPlan, UserVoice, Zendesk, Trello,
+        Slack, SnagIt, Sublime Text, Git, TeamCity, FrameMaker, WebWorks ePublisher, Madcap Flare, Screenflow,
+        Camtasia, InVision, Draw.io, Balsamiq, ProtoShare, OmniGraffle, HTML/CSS, Mark down
 
-      - name: Javascript & jQuery
-        level: 98%
+#    toolset:
+#      - name: Jira & Confluence
+#        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
