@@ -11,6 +11,9 @@
   </h2>
 
   <div class="skillset">
+    <div class="details">
+      {{ skills.details | markdownify }}
+    </div>
 
     {% for skill in skills.toolset %}
     <div class="item">
