@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: David DeAngelis
-    tagline: Technical Writer | Product Owner
+    tagline: Technical Writer | Product Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,13 +45,13 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Seasoned technical writer and product owner with experience in the test & measurement, 
-      prototyping & collaboration, and GRC spaces. As a technical writer I've creatied online 
-      help systems, API guides, training manuals, video tutorials, data sheets, and other learning 
-      resources. As a product manager I've worked closely with internal and external stakeholders 
-      to understand their requirements and transform them into PRDs, users stories, UI mockups, 
+      Seasoned technical writer and product manager with experience in the GRC, prototyping & 
+      collaboration, and test & measurement spaces. As a technical writer I've created online 
+      help systems, UI help, API guides, training manuals, video tutorials, and data sheets. 
+      As a product manager I've worked closely with internal and external stakeholders 
+      to understand their requirements and transform them into PRDs, user stories, UI mockups, 
       and acceptance criteria. Prior to my software career I worked in academia as a researcher 
       and adjunct instructor, and I've published several scientific papers in peer-reviewed journals.
 
@@ -64,7 +64,7 @@ education:
         Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
           - Bullet point
           - Bullet point
-    - degree: BA in physics
+    - degree: BA in Physics
       university: SUNY Oneonta
       time: 1985
       details: |
@@ -74,7 +74,7 @@ education:
           - Bullet point
 
 experiences:
-    - role: Product Owner | Technical Writer
+    - role: Product Manager | Technical Writer
       time: October 2018 - present
       company: Independent contractor, Portland, OR
       details: |
@@ -82,22 +82,20 @@ experiences:
           - Researched and prioritized product requirements.
           - Wrote detailed requirements documents, user stories, and acceptance criteria.
           - Created high-res mockups to help guide designers and developers.
-          - Wrote product positioning brief, website copy, and user-assistance deliverables.
+          - Wrote product positioning brief, website copy, and user assistance.
 
     - role: Senior Product Manager
       time: June 2014 - July 2018
       company: RADAR, Portland, OR
       details: |
-        Product manager for RADAR; a SaaS incident response platform for privacy and security professionals.
+        Product manager for RADAR; a SaaS incident response platform for privacy professionals.
           - Owned the product roadmap and presented it at quarterly company meetings.
           - Led weekly feature prioritization and defect triage meeting.
           - Communicated product status and managed stakeholder expectations via daily standups, 
           customer check-ins, and cross-functional team meetings.
-          - Created detailed application prototypes to help visualize new features and workflows.
-          - Created and delivered product training via webinars, video tutorials, and online help.
-          - Wrote project briefs, user stories, acceptance criteria, help articles, and release notes.
-          - Managed the product knowledge base.
-          - Reviewed auto-generated API docs for clarity, correctness, and completeness.
+          - Wrote PRDs, user stories, acceptance criteria, knowledge base articles, release notes, and customer emails.
+          - Created detailed application mockups to help visualize new features and workflows.
+          - Delivered product training via webinars, video tutorials, and in-person demos.
           - Led biannual customer advisory group meeting.
           - Coordinated UX effort and represented external stakeholders in UI and UX decisions.
           - Served as primary resource to help resolve complex customer-reported issues.
@@ -107,10 +105,8 @@ experiences:
       time: April 2012 - June 2014
       company: Southwood Labs, Portland, OR
       details: |
-        Independent contractor providing product management and writing services for several software projects including a SaaS e-Learning platform.
-        Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
-          - Researched and prioritized product requirements, and led customer development
-          process for Harness; a SaaS software testing tool for developers.
+        Product manager for Harness, a SaaS automated testing tool for developers.
+          - Researched and prioritized product requirements, and led the customer development process. 
           - Created key deliverables including competitor research, lean canvas business model, 
           product positioning brief, web site copy, and application mockups.
           
@@ -151,10 +147,10 @@ experiences:
       time: July 2007 - April 2003
       company: The MathWorks, Natick, MA
       details: |
-        Technical writer for multiple software products built on MATLAB; a technical computing platform for scientists and engineers.
-          - Wrote first-generation user guides for test & measurement (TM), math, and control design products.
+        Technical writer for software products built on MATLAB; a technical computing platform for scientists and engineers.
+          - Wrote first-generation documentation for test & measurement (TM), math, and control design products.
           - Researched, wrote, and maintained functional specifications for TM and math products.
-          - Designed and created context-sensitive help for TM and math products.
+          - Designed and created context-sensitive UI help for TM and math products.
           - Planned, authored, and tested customer training course for TM products.
           - Created video tutorials for control design and math products.
           - Led documentation and product usability testing.
@@ -166,7 +162,7 @@ experiences:
       details: |
         Independent contractor providing teaching and writing services.
           - Taught introductory courses in general physics, business mathematics, and electronics at Emerson College and various junior colleges.
-          - Wrote electronics-related content for process innovation product at Invention Machine, Inc.
+          - Wrote electronics-related content for TechOptimizer process innovation software at Invention Machine, Inc.
         
 #projects:
 #    title: Projects
@@ -185,7 +181,7 @@ experiences:
 patents:
     title: Patents
     intro: |
-      Patent contributions as a technical writer and product manager.
+      
     invention:
       - title: Common communication system for control instruments
         link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6,993,772.PN.&OS=PN/6,993,772&RS=PN/6,993,772"
@@ -211,7 +207,7 @@ patents:
 publications:
     title: Publications
     intro: |
-      Scientific publications based on my physics graduate work.
+      
     papers:
       - title: Isoscalar E2 Strength in <sup>12</sup>C from the (e,e'α) Reaction
         link: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.2872"
@@ -240,8 +236,7 @@ publications:
 
 skills:
     title: Software Tools
-
-        Jira, Confluence, Google Drive, Microsoft Office, ProductPlan, UserVoice, Zendesk, Trello,
+    details: Jira, Confluence, Google Drive, Microsoft Office, ProductPlan, UserVoice, Trello,
         Slack, SnagIt, Sublime Text, Git, TeamCity, FrameMaker, WebWorks ePublisher, Madcap Flare, Screenflow,
         Camtasia, InVision, Draw.io, Balsamiq, ProtoShare, OmniGraffle, HTML/CSS, Mark down
 
