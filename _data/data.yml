@@ -47,13 +47,12 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Seasoned technical writer and product manager with experience in the GRC, prototyping & 
-      collaboration, and test & measurement spaces. As a technical writer I've created online 
-      help systems, UI help, API guides, training manuals, video tutorials, and data sheets. 
-      As a product manager I've worked closely with internal and external stakeholders 
-      to understand their requirements and transform them into PRDs, user stories, UI mockups, 
-      and acceptance criteria. Prior to my software career I worked in academia as a researcher 
-      and adjunct instructor, and I've published several scientific papers in peer-reviewed journals.
+      Seasoned product manager and technical writer with experience in the GRC, prototyping & 
+      collaboration, and test & measurement spaces. As a product manager I've elicited stakeholder 
+      requirements and transformed them into PRDs, user stories, UI mockups, and acceptance criteria. 
+      As a technical writer I've created online help systems, UI help, API guides, training manuals, 
+      video tutorials, and data sheets. Prior to my software career I worked in academia as a researcher 
+      and instructor, and I've published several scientific papers in peer-reviewed journals.
 
 education:
     - degree: PhD in Physics
@@ -89,7 +88,7 @@ experiences:
       company: RADAR, Portland, OR
       details: |
         Product manager for RADAR; a SaaS incident response platform for privacy professionals.
-          - Owned the product roadmap and presented it at quarterly company meetings.
+          - Owned the product roadmap and presented it to stakeholders.
           - Led weekly feature prioritization and defect triage meeting.
           - Communicated product status and managed stakeholder expectations via daily standups, 
           customer check-ins, and cross-functional team meetings.
@@ -105,8 +104,9 @@ experiences:
       time: April 2012 - June 2014
       company: Southwood Labs, Portland, OR
       details: |
-        Product manager for Harness, a SaaS automated testing tool for developers.
-          - Researched and prioritized product requirements, and led the customer development process. 
+        Product manager for Harness; a SaaS automated testing tool for developers.
+          - Researched and prioritized product requirements.
+          - Led the customer development process.
           - Created key deliverables including competitor research, lean canvas business model, 
           product positioning brief, web site copy, and application mockups.
           
@@ -139,12 +139,12 @@ experiences:
       details: |
         Independent contractor providing writing and editing services.
           - Edited physics and engineering textbooks for a major academic publisher.
-          - Created first-generation online Help system for dental practice software.
+          - Created first-generation online help system for dental practice software.
           - Converted 10,000+ pages of existing documentation to first-generation online help system for medical practice software.
           - Created first-generation online help system for complex data visualization software.
 
     - role: Principle Technical Writer 
-      time: July 2007 - April 2003
+      time: July 1997 - April 2003
       company: The MathWorks, Natick, MA
       details: |
         Technical writer for software products built on MATLAB; a technical computing platform for scientists and engineers.
