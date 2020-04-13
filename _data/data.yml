@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: David DeAngelis
-    tagline: Technical Writer | Product Manager
+    tagline: Product Manager | Technical Writer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -73,7 +73,7 @@ education:
           - Bullet point
           - Bullet point
 
-experience:
+experiences:
     - role: Product Manager | Technical Writer
       time: October 2018 - present
       company: Independent contractor, Portland, OR
