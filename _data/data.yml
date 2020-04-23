@@ -166,12 +166,12 @@ experiences:
         
 projects:
     title: Projects
-    intro: >
-#      You can list your side projects or open source libraries in this
+    intro: |
+#    You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
 
+   assignments:
       - title: Sphinx and reStructuredText
         link: "https://djdeangelis.github.io/sphinx-project/"
         tagline: "A documentation project hosted on GitHub that uses Spinx, reStructturedText, and a very nice theme from ReadTheDocs."
