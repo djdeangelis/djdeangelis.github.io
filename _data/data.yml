@@ -164,15 +164,30 @@ experiences:
           - Taught introductory courses in general physics, business mathematics, and electronics at Emerson College and various junior colleges.
           - Wrote electronics-related content for TechOptimizer process innovation software at Invention Machine, Inc.
         
+#projects:
+#    title: Projects
+#    intro: |
+#      Web projects that enhance my PM and writing skills.
+#   assignments:
+#      - title: Sphinx and reStructuredText
+#        link: "https://djdeangelis.github.io/sphinx-project/"
+#        tagline: "A documentation project hosted on GitHub that uses Spinx, reStructturedText, and a very nice theme from ReadTheDocs."
 projects:
     title: Projects
     intro: >
-      Web projects that enhance my PM and writing skills.
-   assignments:
-      - title: Sphinx and reStructuredText
-        link: "https://djdeangelis.github.io/sphinx-project/"
-        tagline: "A documentation project hosted on GitHub that uses Spinx, reStructturedText, and a very nice theme from ReadTheDocs."
+#     You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: reStructuredText primer
+        link: "https://djdeangelis.github.io/reST-primer/"
+        tagline: "A documentation project hosted on GitHub that uses Sphinx, reStructuredText, and a theme from Read The Docs."
 
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#
 #      - title: DevStudio
 #        link: "#"
 #        tagline: "A responsive website template designed to help web developers/designers market their services."
