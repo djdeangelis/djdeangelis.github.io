@@ -44,15 +44,16 @@ sidebar:
       - item: Video | Audio
         link:
 
+      - item: Prog | Fusion
+        link:
+
 career-profile:
     title: Summary
     summary: |
-      Seasoned product manager and technical writer with experience in the GRC, prototyping & 
-      collaboration, and test & measurement spaces. As a product manager I've elicited stakeholder 
-      requirements and transformed them into PRDs, user stories, UI mockups, and acceptance criteria. 
-      As a technical writer I've created online help systems, UI help, API guides, training manuals, 
-      video tutorials, and data sheets. Prior to my software career I worked in academia as a researcher 
-      and instructor, and I've published several scientific papers in peer-reviewed journals.
+      Seasoned product manager and technical writer with experience in the GRC, prototyping &
+      collaboration, and test & measurement spaces. Versatile, customer-focused agilist who excels
+      at communicating with stakeholders, capturing and prioritizing requirements, balancing
+      priorities, creating and refining effective processes, and generating content from scratch.
 
 education:
     - degree: PhD in Physics
@@ -81,24 +82,23 @@ experiences:
           - Researched and prioritized product requirements.
           - Wrote detailed requirements documents, user stories, and acceptance criteria.
           - Created high-res mockups to help guide designers and developers.
-          - Wrote product positioning brief, website copy, and user assistance.
+          - Wrote PRDs, website copy, and user assistance.
 
     - role: Senior Product Manager
       time: June 2014 - July 2018
       company: RADAR, Portland, OR
       details: |
         Product manager for RADAR; a SaaS incident response platform for privacy professionals.
-          - Owned the product roadmap and presented it to stakeholders.
-          - Led weekly feature prioritization and defect triage meeting.
-          - Communicated product status and managed stakeholder expectations via daily standups, 
-          customer check-ins, and cross-functional team meetings.
-          - Wrote PRDs, user stories, acceptance criteria, knowledge base articles, release notes, and customer emails.
-          - Created detailed application mockups to help visualize new features and workflows.
-          - Delivered product training via webinars, video tutorials, and in-person demos.
+          - Owned the product roadmap and managed the product backlog.
+          - Wrote detailed PRDs, user stories, and acceptance criteria.
+          - Drove the UI and UX effort via application mockups and prototypes.
+          - Communicated product status and managed stakeholder expectations via daily
+            standups, customer check-ins, cross-functional team meetings, and Slack.
+          - Served as a key resource to help resolve complex customer-reported issues.
+          - Wrote knowledge base articles, release notes, and customer emails.
+          - Created and delivered product training for customers and sales staff.
           - Led biannual customer advisory group meeting.
-          - Coordinated UX effort and represented external stakeholders in UI and UX decisions.
-          - Served as primary resource to help resolve complex customer-reported issues.
-          - Listed as inventor on patents US 9,781,147 and US 10,331,904.
+          - Listed as inventor on US patents 9,781,147 and 10,331,904.
 
     - role: Co-founder
       time: April 2012 - June 2014
@@ -164,22 +164,12 @@ experiences:
           - Taught introductory courses in general physics, business mathematics, and electronics at Emerson College and various junior colleges.
           - Wrote electronics-related content for TechOptimizer process innovation software at Invention Machine, Inc.
         
-#projects:
-#    title: Projects
-#    intro: |
-#      Web projects that enhance my PM and writing skills.
-#   assignments:
-#      - title: Sphinx and reStructuredText
-#        link: "https://djdeangelis.github.io/sphinx-project/"
-#        tagline: "A documentation project hosted on GitHub that uses Spinx, reStructturedText, and a very nice theme from ReadTheDocs."
 projects:
     title: Projects
     intro: >
-#     You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     You can list your side projects or open source libraries in this section.
     assignments:
-      - title: reStructuredText primer
+      - title: reStructuredText Primer
         link: "https://djdeangelis.github.io/reST-primer/"
         tagline: "A documentation project hosted on GitHub that uses Sphinx, reStructuredText, and a theme from Read The Docs."
 
@@ -187,10 +177,6 @@ projects:
 #        link: "#"
 #        tagline: "A responsive website template designed to help web developers/designers market their services."
 #
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
 patents:
     title: Patents
     intro: |
@@ -249,13 +235,13 @@ publications:
 
 skills:
     title: Software Tools
-    details: Jira, Confluence, Google Drive, Microsoft Office, ProductPlan, UserVoice, Trello,
-        Slack, SnagIt, Sublime Text, Git, TeamCity, FrameMaker, WebWorks ePublisher, Madcap Flare, Screenflow,
-        Camtasia, InVision, Draw.io, Balsamiq, ProtoShare, OmniGraffle, HTML/CSS, Mark down
+    details: Jira, Confluence, Google Drive, Microsoft Office, ProductPlan, UserVoice, OmniFocus, Trello,
+        Slack, SnagIt, Sublime Text, Git, Mark down, reStructuredText, HTML/CSS, FrameMaker, WebWorks ePublisher, 
+        Madcap Flare, Screenflow, Camtasia, InVision, Draw.io, Balsamiq
 
 #    toolset:
 #      - name: Jira & Confluence
 #        level: 90%
 
-#footer: >
-#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    The happiness of your life depends upon the quality of your thoughts.
