@@ -22,7 +22,7 @@ sidebar:
     twitter: # specify as '@twitter-handle'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 113047902-david-deangelis # Number-Username, e.g. 123456-alandoe
+    goodreads: 113047902-david-deangelis
 
 #    languages:
 #      - idiom: English
@@ -172,11 +172,11 @@ projects:
     assignments:
       - title: reStructuredText Primer
         link: "https://djdeangelis.github.io/reST-primer/"
-        tagline: "A documentation project hosted on GitHub that uses Sphinx, reStructuredText, and a theme from Read The Docs."
+        tagline: "A documentation project hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
 
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Curve Fitting Tool
+        link: "https://djdeangelis.github.io/curvefit/"
+        tagline: "A documentation project hosted on GitHub and created with Jekyll, kramdown, MathJax, and a theme from I'd Rather Be Writing."
 #
 patents:
     title: Patents
@@ -235,10 +235,12 @@ publications:
         conference: Phys. Lett. B 344, 79 (1995)
 
 skills:
-    title: Software Tools
-    details: Jira, Confluence, Google Drive, Microsoft Office, ProductPlan, UserVoice, OmniFocus, Trello,
-        Slack, SnagIt, Sublime Text, Git, Mark down, reStructuredText, HTML/CSS, FrameMaker, WebWorks ePublisher, 
-        Madcap Flare, Screenflow, Camtasia, InVision, Draw.io, Balsamiq
+    title: Software Skills
+    details: |
+        **Development** -- Jira/Confluence, Git/GitHub, Markdown/reST, ProductPlan, HTML/CSS <br>
+        **Authoring** -- Sublime Text, Google Drive, Flare, FrameMaker, Screenflow, Camtasia <br> 
+        **Prototyping** --  InVision, Balsamiq, ProtoShare, Draw.io, OmniGraffle <br>
+        **Productivity** -- OmniFocus, Trello, MindNode, SnagIt, Slack
 
 #    toolset:
 #      - name: Jira & Confluence
