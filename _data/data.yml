@@ -176,7 +176,7 @@ projects:
 
       - title: Curve Fitting Tool
         link: "https://djdeangelis.github.io/curvefit/"
-        tagline: "A documentation project hosted on GitHub and created with Jekyll, kramdown, MathJax, and a theme from I'd Rather Be Writing."
+        tagline: "A documentation project hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
 #
 patents:
     title: Patents
@@ -237,7 +237,7 @@ publications:
 skills:
     title: Software Skills
     details: |
-        **Development** -- Jira/Confluence, Git/GitHub, Markdown/reST, ProductPlan, HTML/CSS <br>
+        **Development** -- Jira/Confluence, Git/GitHub, Markdown/reST, HTML/CSS, ProductPlan <br>
         **Authoring** -- Sublime Text, Google Drive, Flare, FrameMaker, Screenflow, Camtasia <br> 
         **Prototyping** --  InVision, Balsamiq, ProtoShare, Draw.io, OmniGraffle <br>
         **Productivity** -- OmniFocus, Trello, MindNode, SnagIt, Slack
