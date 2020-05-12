@@ -238,8 +238,8 @@ skills:
     title: Software Skills
     details: |
         **Development** -- Jira/Confluence, Git/GitHub, Markdown/reST, HTML/CSS, ProductPlan <br>
-        **Authoring** -- Sublime Text, Google Drive, Flare, FrameMaker, Screenflow, Camtasia, GIMP <br> 
-        **Prototyping** --  InVision, Balsamiq, ProtoShare, Axure, Draw.io, OmniGraffle <br>
+        **Authoring** -- Sublime Text, Google Drive, Flare, FrameMaker, Screenflow, Camtasia, LaTeX <br> 
+        **Prototyping** --  InVision, Balsamiq, ProtoShare, Axure, Draw.io, OmniGraffle, GIMP <br>
         **Productivity** -- OmniFocus, Trello, MindNode, SnagIt, Slack
 
 #    toolset:
