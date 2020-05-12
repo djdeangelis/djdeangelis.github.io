@@ -59,7 +59,7 @@ career-profile:
 education:
     - degree: PhD in Physics
       university: University of New Hampshire
-      time: 1992
+      time: 
       details: |
         Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
         Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
@@ -67,7 +67,7 @@ education:
           - Bullet point
     - degree: BA in Physics
       university: SUNY Oneonta
-      time: 1985
+      time: 
       details: |
         Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
         Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
