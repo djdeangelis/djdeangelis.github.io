@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: David DeAngelis
-    tagline: Product Manager | Technical Writer
+    tagline: Technical Writer | Product Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -22,16 +22,13 @@ sidebar:
     twitter: # specify as '@twitter-handle'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 113047902-david-deangelis
+    goodreads:
 
 #    languages:
 #      - idiom: English
 #        level: Native
 
     interests:
-      - item: Cooking | Eating
-        link:
-
       - item: Reading | Writing
         link:
 
@@ -43,18 +40,15 @@ sidebar:
 
       - item: Video | Audio
         link:
-
-      - item: Prog | Fusion
-        link:
           
 
 career-profile:
     title: Summary
     summary: |
-      Product manager and technical writer with experience in the GRC, prototyping & collaboration, 
-      test & measurement, and technical computing spaces. Versatile, customer-focused agilist who excels 
-      at communicating with stakeholders, capturing and prioritizing requirements, balancing
-      priorities, creating and refining effective processes, and generating content from scratch.
+      Technical writer and product manager with 15+ years of experience in the GRC (governance, risk management, 
+      and compliance), prototyping & collaboration, test & measurement, and technical computing spaces. Versatile, 
+      customer-focused agilist who excels at communicating with stakeholders, capturing and prioritizing requirements, 
+      creating effective processes, balancing priorities, and generating content from scratch.
 
 education:
     - degree: PhD in Physics
@@ -75,15 +69,14 @@ education:
           - Bullet point
 
 experiences:
-    - role: Product Manager | Technical Writer
+    - role: Technical Writer
       time: October 2018 - present
       company: Independent contractor, Portland, OR
       details: |
-        Independent contractor providing product management and writing services for several software projects including a SaaS e-Learning platform.
+        Independent contractor providing writing and product management services.
           - Researched and prioritized product requirements.
-          - Wrote detailed requirements documents, user stories, and acceptance criteria.
-          - Created high-res mockups to help guide designers and developers.
-          - Wrote PRDs, website copy, and user assistance.
+          - Created high-res UI mockups to help guide designers and developers.
+          - Wrote requirements documents, user stories, acceptance criteria, and user assistance.
 
     - role: Senior Product Manager
       time: June 2014 - July 2018
@@ -91,7 +84,7 @@ experiences:
       details: |
         Product manager for RADAR; a SaaS incident response platform for privacy professionals.
           - Owned the product roadmap and managed the product backlog.
-          - Wrote detailed PRDs, user stories, and acceptance criteria.
+          - Wrote detailed requirements documents, user stories, and acceptance criteria.
           - Drove the UI and UX effort via application mockups and prototypes.
           - Communicated product status and managed stakeholder expectations via daily
             standups, customer check-ins, cross-functional team meetings, and Slack.
@@ -121,11 +114,11 @@ experiences:
           - Wrote product positioning briefs.
           - Managed beta program.
 
-    - role: Senior Product Manager | Technical Writer
+    - role: Senior Technical Writer | Product Manager
       time: July 2006 - July 2011
       company: Site 9, Portland, OR
       details: |
-        Product manager and technical writer for ProtoShare; a SaaS prototyping and collaboration tool for designers and developers.
+        Technical writer and product manager for ProtoShare; a SaaS prototyping and collaboration tool for designers and developers.
           - Researched and prioritized product requirements.
           - Wrote detailed project briefs and user stories, and created application prototypes.
           - Wrote first-generation online help system and designed in-app user assistance.
@@ -162,7 +155,7 @@ experiences:
       company: Independent contractor, Boston, MA
       details: |
         Independent contractor providing teaching and writing services.
-          - Taught introductory courses in general physics, business mathematics, and electronics at Emerson College and various junior colleges.
+          - Taught introductory courses in general physics, business mathematics, and electronics at various colleges.
           - Wrote electronics-related content for TechOptimizer process innovation software at Invention Machine, Inc.
         
 projects:
@@ -237,10 +230,10 @@ publications:
 skills:
     title: Software Skills
     details: |
-        **Development** -- Jira/Confluence, Git/GitHub, Markdown/reST, HTML/CSS, ProductPlan <br>
-        **Authoring** -- Sublime Text, Google Drive, Flare, FrameMaker, Screenflow, Camtasia, LaTeX <br> 
-        **Prototyping** --  InVision, Balsamiq, ProtoShare, Axure, Draw.io, OmniGraffle, GIMP <br>
-        **Productivity** -- OmniFocus, Trello, MindNode, SnagIt, Slack
+        **Authoring** -- Confluence, Flare, FrameMaker, Markdown/reST, HTML/CSS, LaTeX, Git/GitHub <br> 
+        **Productivity** -- Jira, Sublime Text, Trello, OmniFocus, MindNode, Slack, ProductPlan <br>
+        **Prototyping** --  InVision, Balsamiq, ProtoShare, Axure, Draw.io, OmniGraffle <br>
+        **Screencasting** -- Screenflow, Camtasia, Final Cut Pro X, Audition, SnagIt, GIMP, Wistia
 
 #    toolset:
 #      - name: Jira & Confluence
