@@ -22,7 +22,7 @@ sidebar:
     twitter: # specify as '@twitter-handle'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads:
+    goodreads: # 113047902-david-deangelis
 
 #    languages:
 #      - idiom: English
@@ -230,7 +230,7 @@ publications:
 skills:
     title: Software Skills
     details: |
-        **Authoring** -- Confluence, Flare, FrameMaker, Markdown/reST, HTML/CSS, LaTeX, Git/GitHub <br> 
+        **Authoring** -- Confluence, Flare, FrameMaker, Markdown/reST, HTML/CSS, LaTeX, git/GitHub <br> 
         **Productivity** -- Jira, Sublime Text, Trello, OmniFocus, MindNode, Slack, ProductPlan <br>
         **Prototyping** --  InVision, Balsamiq, ProtoShare, Axure, Draw.io, OmniGraffle <br>
         **Screencasting** -- Screenflow, Camtasia, Final Cut Pro X, Audition, SnagIt, GIMP, Wistia
