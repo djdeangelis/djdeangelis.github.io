@@ -69,14 +69,14 @@ education:
           - Bullet point
 
 experiences:
-    - role: Technical Writer
+    - role: Technical Writer | Product Manager
       time: October 2018 - present
       company: Independent contractor, Portland, OR
       details: |
         Independent contractor providing writing and product management services.
-          - Researched and prioritized product requirements.
-          - Created high-res UI mockups to help guide designers and developers.
-          - Wrote requirements documents, user stories, acceptance criteria, and user assistance.
+          - Researched and prioritized product requirements for several SaaS projects including a novel e-learning platform for adult learners.
+          - Created high-res mockups to help guide designers and developers.
+          - Wrote requirements documents, user stories, acceptance criteria, website copy, and user assistance.
 
     - role: Senior Product Manager
       time: June 2014 - July 2018
