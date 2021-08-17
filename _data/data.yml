@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Technical writer and product manager with 15+ years of experience in the GRC (governance, risk management, 
+      Technical writer and product manager with 15+ years of experience in the GRC (governance, risk, 
       and compliance), prototyping & collaboration, test & measurement, and technical computing spaces. Versatile, 
       customer-focused agilist who excels at communicating with stakeholders, capturing and prioritizing requirements, 
       creating effective processes, balancing priorities, and generating content from scratch.
@@ -69,8 +69,19 @@ education:
           - Bullet point
 
 experiences:
+    - role: BSA | Technical Writer
+      time: December 2020 - present
+      company: OnPoint Community Credit Union
+      details: |
+        Business Systems Analyst for credit union core conversion project.
+          - Researched and recommended Confluence as document repository and collaboration tool.
+          - Trained team leads and SMEs to use Confluence.
+          - Captured core conversion requirements for all CU business units.
+          - Participated in due diligence calls with vendors and CU peers.
+          - Researched and recmmended GRC tools for Compliance Team.
+
     - role: Technical Writer | Product Manager
-      time: October 2018 - present
+      time: October 2018 - November 2020
       company: Independent contractor, Portland, OR
       details: |
         Independent contractor providing writing and product management services.
