@@ -85,12 +85,12 @@ experiences:
       company: OnPoint Community Credit Union
       details: |
         Contract BSA and technical writer for credit union (CU) core systems conversion project.
-          - Established Confluence as the CU's primary document repository and collaboration tool.
+          - Researched document repository and collaboration tools, and established Confluence as the best option after conferring with key executives.
           - Served as Confluence admin, and trained 50+ stakeholders to effectively use the tool.
           - Wrote 200+ pages of content related to project research, processes, RFP responses, requirements, decisions, and meeting notes.
-          - Established document templates, approval workflow, writing standards, and style guide.
+          - Established document templates, approval workflow, and writing standards.
           - Participated in and documented due diligence calls with third-party vendors and CU peers.
-          - Researched GRC software solutions to help the CU satisfy CFPB and NCUA regulations.
+          - Researched and presented GRC software solutions to help satisfy CFPB and NCUA regulations.
 
     - role: Product Manager | Technical Writer
       time: January 2019 - November 2020
@@ -113,6 +113,7 @@ experiences:
           - Communicated product status and managed stakeholder expectations via daily
             standups, customer check-ins, cross-functional team meetings, and Slack.
           - Served as a key resource to help resolve complex customer-reported issues.
+          - Frontline tester for customer-facing features and API endpoints.
           - Wrote knowledge base articles, release notes, and customer emails.
           - Created and delivered product training for customers and sales staff.
           - Led biannual customer advisory group meeting.
@@ -143,12 +144,14 @@ experiences:
       company: Site 9, Portland, OR
       details: |
         Technical writer and product manager for ProtoShare; a SaaS prototyping and collaboration tool for designers and developers.
-          - Researched and prioritized product requirements.
-          - Wrote detailed project briefs and user stories, and created application prototypes.
+          - Researched and prioritized product requirements in collaboration with the Engineering team.
+          - Created high resolution application prototypes that facilitated feature and workflow discussions.
+          - Wrote detailed meeting notes, project briefs, user stories, and acceptance criteria.
           - Wrote first-generation online help system and designed in-app user assistance.
-          - Created complete suite of video tutorials.
-          - Created and delivered instructional webinars for customers and sales staff.
-          - Designed and created detailed starter project and other out-of-box usability improvements.
+          - Created complete suite of video tutorials for novice and advanced users.
+          - Created and delivered instructional webinars for customers and Sales staff.
+          - Designed and built a demo project that shipped with the product, and contributed many other usability 
+          improvements that enhanced the out-of-box experience.
           - Managed beta and early-adopter programs.
 
     - role: Technical Writer | Editor
