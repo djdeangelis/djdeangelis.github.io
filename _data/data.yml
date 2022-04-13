@@ -48,11 +48,11 @@ career-profile:
       Technical writer and product manager with enterprise experience in the machine learning, financial, GRC (governance, risk, 
       and compliance), prototyping & collaboration, test & measurement, and technical computing spaces. Versatile, self-directed 
       professional who excels at communicating with stakeholders, capturing and prioritizing requirements, creating effective processes, 
-      and producing content from scratch using industry-standard tools. Recent deliverables include project briefs, user stories, acceptance 
-      tests, wiki pages, online help systems, video tutorials, and training guides.
+      and producing content from scratch using industry-standard tools. Past deliverables include online help systems, context-sensitive 
+      help, training guides, video tutorials, project briefs, user stories, and acceptance tests.
 
 education:
-    - degree: M.S. in Physics
+    - degree: MS in Physics
       university: University of New Hampshire
       time: 
       details: |
@@ -175,6 +175,7 @@ experiences:
           - Planned, authored, and tested customer training course for TM products.
           - Created video tutorials for control design and math products.
           - Led documentation and product usability testing.
+          - Represented the TM team at several industry trade shows.
           - Listed as inventor on TM patent US 6,993,772.
     
     - role: Adjunct Instructor | Technical Writer 
