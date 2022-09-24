@@ -71,18 +71,28 @@ education:
 
 experiences:
     - role: Technical Writer
-      time: October 2021 - March 2022
-      company: CodaMetrix
+      time: July 2022 - present
+      company: OnCorps, Boston, MA
+      details: |
+        Contract technical writer for a late-stage startup providing AI-driven solutions for professional services pricing.
+          - Created first-generation product specifications and user guide.
+          - Used Confluence as the primary document repository and collaboration tool.
+          - Created and maintained a Confluence space to support the technical writing effort.
+
+    - role: Technical Writer
+      time: October 2021 - April 2022
+      company: CodaMetrix, Boston, MA
       details: |
         Contract technical writer for an early-stage startup providing AI-driven solutions for clinical areas and healthcare administration.
+          - Established documentation templates and delivery process for pre-sales and implementation deliverables.
+          - Documented team resources, projects, tasks, decisions, and meeting notes.
+          - Collaborated with key members on the Support, Professional Services, and Engineering teams.
           - Used Confluence as the primary document repository and collaboration tool.
-          - Collaborated with key members on the Support, Professional Services, and Engineering teams to produce internal- and external-facing documents.
-          - Created and maintained a Confluence space to support the technical writing effort, and documented team resources, projects, tasks, decisions, and meeting notes.
-          - Established templates and delivery process for pre-sales and implementation documents.
-
-    - role: Technical Writer | Busines Systems Analyst
+          - Created and maintained a Confluence space to support the technical writing effort.
+          
+    - role: Technical Writer | Business Systems Analyst
       time: December 2020 - October 2021
-      company: OnPoint Community Credit Union
+      company: OnPoint Community Credit Union, Portland, OR
       details: |
         Contract technical writer and BSA for credit union (CU) core systems conversion project.
           - Researched document repository and collaboration tools, and established Confluence as the best option after conferring with key executives.
