@@ -45,11 +45,13 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Technical writer and product manager with enterprise experience in the machine learning, financial, GRC (governance, risk, 
-      and compliance), prototyping & collaboration, test & measurement, and technical computing spaces. Versatile, self-directed 
-      professional who excels at communicating with stakeholders, capturing and prioritizing requirements, creating effective processes, 
-      and producing content from scratch using industry-standard tools. Past deliverables include online help systems, context-sensitive 
-      help, training guides, video tutorials, project briefs, user stories, and acceptance tests.
+          - Technical writer and product manager with enterprise-level experience in the AI, financial, risk & compliance, prototyping & collaboration, 
+          test & measurement, and technical computing spaces.
+          - Versatile, self-directed professional who excels at communicating with stakeholders, capturing and prioritizing requirements, creating effective 
+          processes, and producing content from scratch using industry-standard tools such as Confluence, Jira, GitHub, FrameMaker, and Flare.
+          - Deliverables include online help systems, context-sensitive UI help, training guides, video tutorials, high- and low-fidelity prototypes, 
+          product requirements documents, user stories, and acceptance tests.
+  
 
 education:
     - degree: MS in Physics
@@ -71,61 +73,63 @@ education:
 
 experiences:
     - role: Technical Writer
-      time: July 2022 - present
+      time: July 2022 - October 2022
       company: OnCorps, Boston, MA
       details: |
-        Contract technical writer for a late-stage startup providing AI-driven solutions for professional services pricing.
+          - Sole contract technical writer at a late-stage startup providing AI-driven configure-price-quote (CPQ) solutions for consulting and services teams.
           - Created first-generation product specifications and user guide.
           - Used Confluence as the primary document repository and collaboration tool.
-          - Created and maintained a Confluence space to support the technical writing effort.
+          - Created and maintained a Confluence space to support the technical writing effort, and documented team resources, projects, tasks, 
+          decisions, and meeting notes.
 
     - role: Technical Writer
       time: October 2021 - April 2022
       company: CodaMetrix, Boston, MA
       details: |
-        Contract technical writer for an early-stage startup providing AI-driven solutions for clinical areas and healthcare administration.
-          - Established documentation templates and delivery process for pre-sales and implementation deliverables.
-          - Documented team resources, projects, tasks, decisions, and meeting notes.
-          - Collaborated with key members on the Support, Professional Services, and Engineering teams.
+          - Sole contract technical writer at an early-stage startup providing AI-driven medical coding solutions for radiology, pathology, 
+          and other healthcare specialties.
+          - Established templates and delivery process for pre-sales and implementation documents.
+          - Collaborated with key members of the Support, Professional Services, and Engineering teams to produce and refine internal- and 
+          external-facing documents.
           - Used Confluence as the primary document repository and collaboration tool.
-          - Created and maintained a Confluence space to support the technical writing effort.
-          
+          - Created and maintained a Confluence space to support the technical writing effort, and documented team resources, projects, tasks, 
+          decisions, and meeting notes.
+  
     - role: Technical Writer | Business Systems Analyst
       time: December 2020 - October 2021
       company: OnPoint Community Credit Union, Portland, OR
       details: |
-        Contract technical writer and BSA for credit union (CU) core systems conversion project.
-          - Researched document repository and collaboration tools, and established Confluence as the best option after conferring with key executives.
+          - Sole contract technical writer and BSA for a credit union (CU) core systems conversion project.
+          - Researched document repository and collaboration tools, and established Confluence as the best option after consulting with key executives.
           - Served as Confluence admin, and trained 50+ stakeholders to effectively use the tool.
-          - Wrote 200+ pages of content related to project research, processes, RFP responses, requirements, decisions, and meeting notes.
-          - Established document templates, approval workflow, and writing standards.
-          - Participated in due diligence calls with third-party vendors and CU peers.
-          - Researched and presented GRC software solutions to help the CU satisfy CFPB and NCUA regulations.
+          - Established information architecture, document templates, editorial and approval workflow, and writing standards.
+          - Wrote 200+ pages of content related to project research, processes, RFP responses, requirements, decisions, and meeting notes. 
+          - Participated in and documented due diligence calls with third-party vendors and CU peers.
+          - Researched and presented GRC (governance, risk, and compliance) software solutions to help satisfy CFPB and NCUA regulations.
 
     - role: Product Manager | Technical Writer
       time: January 2019 - November 2020
-      company: Independent contractor, Portland, OR
+      company: Various clients, Portland, OR
       details: |
-        Independent contractor providing product management and writing services.
-          - Captured product requirements for several SaaS projects including an e-learning platform for adult learners.
-          - Set up Confluence and Jira, and created documentation plan and architecture.
-          - Created high-res mockups to help guide designers and developers.
+          - Independent contractor providing product management and technical writing services for various clients including a SaaS e-learning platform 
+          for adult learners.
+          - Set up Confluence and Jira, and served as Confluence admin.
+          - Created high-fidelity UI mockups to help guide designers and developers.
+          - Established info architecture, document templates, approval workflow, and writing standards.
           - Wrote project briefs, business requirements, epics and stories, and user assistance.
 
     - role: Senior Product Manager
       time: June 2014 - July 2018
       company: RADAR, Portland, OR
       details: |
-        Product manager for RADAR; a SaaS incident response platform for privacy professionals.
+          - Product manager for a SaaS breach response platform used by privacy and security experts.
           - Owned the product roadmap and managed the product backlog.
           - Wrote detailed requirements documents, user stories, and acceptance criteria.
           - Drove the UI and UX effort via application mockups and prototypes.
-          - Communicated product status and managed stakeholder expectations via daily
-            standups, customer check-ins, cross-functional team meetings, and Slack.
-          - Served as a key resource to help resolve complex customer-reported issues.
-          - Frontline tester for customer-facing features and API endpoints.
+          - Communicated product status and managed stakeholder expectations via daily stand ups, customer check-ins, and cross-functional team meetings.
           - Wrote knowledge base articles, release notes, and customer emails.
-          - Created and delivered product training for customers and sales staff.
+          - Frontline tester for customer-facing features and API endpoints.
+          - Created and delivered product training for customers and Sales staff.
           - Led biannual customer advisory group meeting.
           - Listed as inventor on US patents 9,781,147 and 10,331,904.
 
@@ -133,17 +137,16 @@ experiences:
       time: April 2012 - June 2014
       company: Southwood Labs, Portland, OR
       details: |
-        Product manager for Harness; a SaaS automated testing tool for developers.
+          - Product manager for Harness; a SaaS automated testing tool for testers and developers.
           - Researched and prioritized product requirements.
           - Led the customer development process.
-          - Created key deliverables including competitor research, lean canvas business model, 
-          product positioning brief, web site copy, and application mockups.
+          - Created key deliverables including competitor research, lean canvas business model, product positioning brief, web site copy, and application mockups.
           
     - role: Senior Product Manager
       time: July 2011 - March 2012
       company: Monsoon Commerce, Portland, OR
       details: |
-        Product manager for Monsoon; an e-commerce platform for third-party sellers.
+          - Product manager for Monsoon; an e-commerce platform for third-party sellers.
           - Researched and prioritized product requirements.
           - Managed stakeholder expectations around feature scope and delivery timelines.
           - Wrote product positioning briefs.
@@ -153,9 +156,9 @@ experiences:
       time: July 2006 - July 2011
       company: Site 9, Portland, OR
       details: |
-        Technical writer and product manager for ProtoShare; a SaaS prototyping and collaboration tool for designers and developers.
+          - Technical writer and product manager for ProtoShare; a SaaS prototyping and collaboration tool for designers and developers.
           - Researched and prioritized product requirements in collaboration with the Engineering team.
-          - Created high resolution application prototypes that facilitated feature and workflow discussions.
+          - Created high-fidelity application prototypes that facilitated feature and workflow discussions.
           - Wrote detailed meeting notes, project briefs, user stories, and acceptance criteria.
           - Wrote first-generation online help system and designed in-app user assistance.
           - Created complete suite of video tutorials for novice and advanced users.
@@ -166,19 +169,20 @@ experiences:
 
     - role: Technical Writer | Editor
       time: August 2003 - September 2006
-      company: Independent contractor, Portland, OR
+      company: Various clients, Portland, OR
       details: |
-        Independent contractor providing writing and editing services.
+          - Independent contractor providing writing and editing services.
           - Edited physics and engineering textbooks for a major academic publisher.
           - Created first-generation online help system for dental practice software.
           - Converted 10,000+ pages of existing documentation to first-generation online help system for medical practice software.
           - Created first-generation online help system for complex data visualization software.
+          - Wrote electronics-related content for process innovation software. 
 
     - role: Principle Technical Writer 
       time: July 1997 - April 2003
       company: The MathWorks, Natick, MA
       details: |
-        Technical writer for software products built on MATLAB; a technical computing platform for scientists and engineers.
+          - Technical writer for software products built on MATLAB; a technical computing platform for scientists and engineers.
           - Wrote first-generation documentation for test & measurement (TM), math, and control design products.
           - Researched, wrote, and maintained functional specifications for TM and math products.
           - Designed and created context-sensitive UI help for TM and math products.
@@ -192,7 +196,7 @@ experiences:
       time: April 1996 - June 1997
       company: Independent contractor, Boston, MA
       details: |
-        Independent contractor providing teaching and writing services.
+          - Independent contractor providing teaching and writing services.
           - Taught introductory courses in general physics, business mathematics, and electronics at various colleges.
           - Wrote electronics-related content for TechOptimizer process innovation software at Invention Machine, Inc.
         
@@ -201,13 +205,18 @@ projects:
     intro: >
 #     You can list your side projects or open source libraries in this section.
     assignments:
+      - title: Curve Fitting Tool
+        link: "https://djdeangelis.github.io/curvefit/"
+        tagline: "A documentation project hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
+
       - title: reStructuredText Primer
         link: "https://djdeangelis.github.io/reST-primer/"
         tagline: "A documentation project hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
 
-      - title: Curve Fitting Tool
-        link: "https://djdeangelis.github.io/curvefit/"
-        tagline: "A documentation project hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
+      - title: Fixed-Point Blockset
+        link: "https://fiatlux.atlassian.net/wiki/spaces/FPBS/overview"
+        tagline: "A documentation project hosted on Confluence that explores key built-in features and Atlassian Marketplace add-ons."
+
 #
 patents:
     title: Patents
