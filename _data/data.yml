@@ -71,6 +71,23 @@ education:
           - Bullet point
           - Bullet point
 
+projects:
+    title: Projects
+    intro: >
+#     You can list your side projects or open source libraries in this section.
+    assignments:
+      - title: Curve Fitting Tool
+        link: "https://djdeangelis.github.io/curvefit/"
+        tagline: "A documentation project hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
+
+      - title: reStructuredText Primer
+        link: "https://djdeangelis.github.io/reST-primer/"
+        tagline: "A documentation project hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
+
+      - title: Fixed-Point Blockset
+        link: "https://fiatlux.atlassian.net/wiki/spaces/FPBS/overview"
+        tagline: "A documentation project hosted on Confluence that explores key platform features and Atlassian Marketplace apps."
+
 experiences:
     - role: Technical Writer
       time: July 2022 - October 2022
@@ -215,9 +232,8 @@ projects:
 
       - title: Fixed-Point Blockset
         link: "https://fiatlux.atlassian.net/wiki/spaces/FPBS/overview"
-        tagline: "A documentation project hosted on Confluence that explores key built-in features and Atlassian Marketplace add-ons."
+        tagline: "A documentation project hosted on Confluence that explores key use cases using built-in features and Atlassian Marketplace add-ons."
 
-#
 patents:
     title: Patents
     intro: |
