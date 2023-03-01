@@ -207,15 +207,15 @@ projects:
     assignments:
       - title: Curve Fitting Tool
         link: "https://djdeangelis.github.io/curvefit/"
-        tagline: "A documentation project hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
+        tagline: "A static website generator documentation project hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
 
       - title: reStructuredText Primer
         link: "https://djdeangelis.github.io/reST-primer/"
-        tagline: "A documentation project hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
+        tagline: "A static website generator documentation project hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
 
       - title: Fixed-Point Blockset
         link: "https://fiatlux.atlassian.net/wiki/spaces/FPBS/overview"
-        tagline: "A documentation project hosted on Confluence that explores key platform features and Atlassian Marketplace apps."
+        tagline: "A CMS documentation project hosted on Confluence that explores key platform features and Atlassian Marketplace apps."
 
 patents:
     title: Patents
@@ -223,21 +223,21 @@ patents:
       
     invention:
       - title: Common communication system for control instruments
-        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6,993,772.PN.&OS=PN/6,993,772&RS=PN/6,993,772"
+        link: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6993772"
         inventors: Pike MP, Lurie RE, Dean LP, Portal CA, DeAngelis DJ, Kalashian DS
         assignee: The MathWorks, Inc.
         number: United States patent US 6,993,772
         date: 2006 Jan 31
   
       - title: Systems and methods for managing data incidents
-        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9,781,147.PN.&OS=PN/9,781,147&RS=PN/9,781,147"
+        link: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9781147"
         inventors: Sher-Jan M, Rook SM, Kotka GL, Migliore A, Cannon T, Cleek B, Church NJ, DeAngelis DJ
         assignee: RADAR, LLC
         number: United States patent US 9,781,147
         date: 2017 Oct 3
 
       - title: Systems and methods for managing multifaceted data incidents
-        link: "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10,331,904.PN.&OS=PN/10,331,904&RS=PN/10,331,904"
+        link: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10331904"
         inventors: Sher-Jan M, Migliore A, Church NJ, DeAngelis DJ, Brown, R
         assignee: RADAR, LLC
         number: United States patent US 10,331,904
