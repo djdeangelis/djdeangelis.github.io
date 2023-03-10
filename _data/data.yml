@@ -22,14 +22,15 @@ sidebar:
     twitter: # specify as '@twitter-handle'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # 113047902-david-deangelis
+    goodreads: 113047902-david-deangelis
 
 #    languages:
 #      - idiom: English
 #        level: Native
 
     interests:
-      - item: Reading | Writing
+      - item: Reading | Writing orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent imperdiet vel magna non tempor. 
+      Aliquam congue ante tortor, vel maximus ligula finibus a. Etiam eu leo eu massa venenatis interdum.
         link:
 
       - item: Biking | Hiking
@@ -69,23 +70,6 @@ education:
         Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
           - Bullet point
           - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-#     You can list your side projects or open source libraries in this section.
-    assignments:
-      - title: Curve Fitting Tool
-        link: "https://djdeangelis.github.io/curvefit/"
-        tagline: "A static user guide hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
-
-      - title: reStructuredText Primer
-        link: "https://djdeangelis.github.io/reST-primer/"
-        tagline: "A static reference guide hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
-
-      - title: Fixed-Point Blockset
-        link: "https://fiatlux.atlassian.net/wiki/spaces/FPBS/overview"
-        tagline: "A large CMS-based documentation project hosted on Confluence that explores key platform features and Atlassian Marketplace apps."
 
 experiences:
     - role: Technical Writer
@@ -216,7 +200,23 @@ experiences:
           - Taught introductory courses in general physics, business mathematics, and electronics at various colleges.
           - Wrote electronics-related content for TechOptimizer process innovation software at Invention Machine, Inc.
         
-#
+projects:
+    title: Projects
+    intro: >
+#     You can list your side projects or open source libraries in this section.
+    assignments:
+      - title: Curve Fitting Tool
+        link: "https://djdeangelis.github.io/curvefit/"
+        tagline: "A static user guide hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
+
+      - title: reStructuredText Primer
+        link: "https://djdeangelis.github.io/reST-primer/"
+        tagline: "A static reference guide hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
+
+      - title: Fixed-Point Blockset
+        link: "https://fiatlux.atlassian.net/wiki/spaces/FPBS/overview"
+        tagline: "A large CMS-based documentation project hosted on Confluence that explores key platform features and Atlassian Marketplace apps."
+
 patents:
     title: Patents
     intro: |
