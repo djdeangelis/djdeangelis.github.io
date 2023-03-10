@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -29,8 +29,7 @@ sidebar:
 #        level: Native
 
     interests:
-      - item: Reading | Writing orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent imperdiet vel magna non tempor. 
-      Aliquam congue ante tortor, vel maximus ligula finibus a. Etiam eu leo eu massa venenatis interdum.
+      - item: Reading | Writing
         link:
 
       - item: Biking | Hiking
