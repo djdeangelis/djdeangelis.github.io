@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -50,8 +50,7 @@ career-profile:
           - Versatile, self-directed professional who excels at communicating with stakeholders, capturing and prioritizing requirements, creating effective 
           processes, and producing content from scratch using industry-standard tools such as Confluence, Jira, GitHub, FrameMaker, and Flare.
           - Deliverables include online help systems, context-sensitive UI help, training guides, video tutorials, high- and low-fidelity prototypes, 
-          product requirements documents, user stories, and acceptance tests.
-  
+          product requirements documents, user stories, and acceptance tests.  
 
 education:
     - degree: MS in Physics
@@ -70,6 +69,23 @@ education:
         Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
           - Bullet point
           - Bullet point
+
+projects:
+    title: Projects
+    intro: >
+#     You can list your side projects or open source libraries in this section.
+    assignments:
+      - title: Curve Fitting Tool
+        link: "https://djdeangelis.github.io/curvefit/"
+        tagline: "A static user guide hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
+
+      - title: reStructuredText Primer
+        link: "https://djdeangelis.github.io/reST-primer/"
+        tagline: "A static reference guide hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
+
+      - title: Fixed-Point Blockset
+        link: "https://fiatlux.atlassian.net/wiki/spaces/FPBS/overview"
+        tagline: "A large CMS-based documentation project hosted on Confluence that explores key platform features and Atlassian Marketplace apps."
 
 experiences:
     - role: Technical Writer
@@ -200,23 +216,7 @@ experiences:
           - Taught introductory courses in general physics, business mathematics, and electronics at various colleges.
           - Wrote electronics-related content for TechOptimizer process innovation software at Invention Machine, Inc.
         
-projects:
-    title: Projects
-    intro: >
-#     You can list your side projects or open source libraries in this section.
-    assignments:
-      - title: Curve Fitting Tool
-        link: "https://djdeangelis.github.io/curvefit/"
-        tagline: "A static website generator documentation project hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
-
-      - title: reStructuredText Primer
-        link: "https://djdeangelis.github.io/reST-primer/"
-        tagline: "A static website generator documentation project hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
-
-      - title: Fixed-Point Blockset
-        link: "https://fiatlux.atlassian.net/wiki/spaces/FPBS/overview"
-        tagline: "A CMS documentation project hosted on Confluence that explores key platform features and Atlassian Marketplace apps."
-
+#
 patents:
     title: Patents
     intro: |
