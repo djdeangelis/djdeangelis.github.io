@@ -52,16 +52,8 @@ career-profile:
           technical computing, data acquisition and instrument control hardware, and data analysis.
 
 education:
-    - degree: MS in Physics
+    - degree: PhD in Physics
       university: University of New Hampshire
-      time: 
-      details: |
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-        Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.
-          - Bullet point
-          - Bullet point
-    - degree: BA in Physics
-      university: SUNY Oneonta
       time: 
       details: |
         Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
