@@ -45,14 +45,14 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-          I’m a senior technical writer specializing in first-generation documentation, typically in a B2B startup environment. I use industry-standard tools 
+          I’m a senior technical writer specializing in first-generation documentation, typically at a B2B startup environment. I use industry-standard tools 
           such as Confluence, Jira, Flare, ScreenFlow, and Balsamiq to produce online help systems, training guides, video tutorials, application prototypes, 
-          requirements documents, user stories, and other deliverables. My main strengths include communicating with stakeholders, capturing and prioritizing 
+          requirements documents, user stories, and other deliverables. My main strengths include owning projects, communicating with stakeholders, capturing and prioritizing 
           requirements, creating effective processes, and producing content from scratch. I have an advanced degree in physics with research experience in 
           technical computing, data acquisition and instrument control hardware, and data analysis.
 
 education:
-    - degree: PhD in Physics
+    - degree: MS in Physics
       university: University of New Hampshire
       time: 
       details: |
