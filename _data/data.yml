@@ -46,13 +46,13 @@ career-profile:
     title: Summary
     summary: |
           I’m a senior technical writer specializing in first-generation documentation, typically in a B2B startup environment. I use industry-standard tools 
-          such as Confluence, Jira, Flare, ScreenFlow, and Balsamiq to produce online help systems, training guides, video tutorials, application prototypes, 
-          requirements documents, user stories, and other deliverables. My main strengths include communicating with stakeholders, capturing and prioritizing 
-          requirements, creating effective processes, and producing content from scratch. I have an advanced degree in physics with research experience in 
-          technical computing, data acquisition and instrument control hardware, and data analysis.
+          such as Confluence, XWiki, Flare, ScreenFlow, and Balsamiq to produce online help systems, training guides, video tutorials, application prototypes, 
+          requirements documents, and other deliverables. My main strengths include communicating with stakeholders, capturing and prioritizing 
+          requirements, creating effective processes, and producing content from scratch. I have an academic background in physics with research experience using
+          data acquisition and instrument control hardware, technical computing platforms, and data analysis tools and techniques.
 
 education:
-    - degree: PhD in Physics
+    - degree: MS in Physics
       university: University of New Hampshire
       time: 
       details: |
@@ -62,6 +62,16 @@ education:
           - Bullet point
 
 experiences:
+    - role: Technical Writer
+      time: May 2023 - present
+      company: Amazon, North Reading, MA
+      details: |
+          - Sole technical writer for robotics team providing warehouse simulation software used by data scientists, solutions engineers, and facility managers. 
+          - Created first-generation user guide by developing expertise in the software and repurposing existing resources such as requirements docs, Jira tickets, user feedback, and training videos.
+          - Created template for model-based reference documentation and worked with development teams to complete the documentation.
+          - Wrote requirements document for in-app user assistance, which helped to establish buy-in from the management team.
+          - Used XWiki as the platform for content development and collaboration.
+
     - role: Technical Writer
       time: July 2022 - October 2022
       company: OnCorps, Boston, MA
@@ -266,8 +276,8 @@ publications:
 skills:
     title: Software Skills
     details: |
-        **Authoring** -- Confluence, Flare, FrameMaker, Markdown/reST, HTML/CSS, LaTeX, git/GitHub <br> 
-        **Productivity** -- Jira, Sublime Text, Trello, OmniFocus, MindNode, Slack, ProductPlan <br>
+        **Authoring** -- Confluence, XWiki, Flare, FrameMaker, Markdown/reST, HTML/CSS, LaTeX, git/GitHub <br> 
+        **Productivity** -- Jira, Sublime Text, Trello, OmniFocus, MindNode, ProductPlan <br>
         **Prototyping** --  InVision, Balsamiq, ProtoShare, Axure, Draw.io, OmniGraffle <br>
         **Media** -- Screenflow, Camtasia, Final Cut Pro X, Audition, SnagIt, GIMP, Wistia
 
