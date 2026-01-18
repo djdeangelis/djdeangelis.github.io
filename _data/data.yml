@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: David DeAngelis
-    tagline: Technical Writer
+    tagline: Senior Technical Writer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,46 +25,45 @@ sidebar:
     goodreads:
 
     interests:
-      - item: Pragmatic writing approach
+      - item: - Pragmatic writing approach
         link:
 
-      - item: Help system development
+      - item: - Help system design
         link:
 
-      - item: Confluence, XWiki, Flare, HTML
+      - item: - Industry-standard tools
         link:
 
-      - item: Doc-as-code tools and workflows
+      - item: - Doc-as-code workflows
         link:
 
-      - item: AI prompt optimization
+      - item: - AI-assisted doc workflows
         link:
 
-      - item: Agile and SDLC methodologies
+      - item: - Agile and SDLC methodologies
         link:
 
-      - item: Project planning and ownership
+      - item: - Project planning and ownership
         link:
 
-      - item: Requirements management
+      - item: - Requirements management
         link:         
 
-      - item: UI/UX mockups and prototypes
+      - item: - UI/UX mockups and prototypes
         link:
 
-      - item: Application testing & training
+      - item: - Cross-functional collaboration
         link:
 
 
 career-profile:
     title: Summary
     summary: |
-        Technical writer with over 20 years of experience delivering documentation projects in both startup and enterprise SaaS environments. 
-        Industries include robotics, financial services, regulatory risk management, UX design, and technical computing. Agile, self-directed 
-        professional who excels at communicating with stakeholders, producing content from scratch, and managing the content workflow. Past 
-        deliverables include online help systems, UI help, KB articles, training guides, video tutorials, user stories, and application prototypes. 
-        Additional professional experience in product management and teaching. Academic background in physics with hands-on research experience 
-        using test & measurement hardware and data analysis software.
+        Senior technical writer with 20+ years of experience delivering documentation projects in both startup and enterprise SaaS environments. 
+        Industries include robotics, financial services, regulatory risk management, and prototyping. Self-directed professional who excels at 
+        communicating with stakeholders, producing content from scratch, and managing the content workflow. Deliverables include online help 
+        systems, UI help, KB articles, training guides, video tutorials, API docs, and user stories. Additional professional experience in 
+        product management, UX design, and education.
 
 education:
     - degree: MS in Physics
@@ -86,7 +85,7 @@ experiences:
           - Created a standard template for model-based reference documentation, and worked with development teams to produce documentation for multiple simulation models.
           - Worked with team leaders to determine their documentation requirements and deliverable timelines, and maintained a spreadsheet to track progress.
           - Led effort to include in-app help for simulation software. Presented managers with requirements document and UI mockups to facilitate discussion and decision making.
-          - Led effort to redesign internal-facing team websites. Presented team leaders with several HTML-based prototypes to facilitate design discussion and decision making.
+          - Redesigned internal-facing team websites. Presented team leaders with several HTML-based prototypes to facilitate design discussion and decision making.
           - Created survey to help prioritize feature backlog for simulation software.
 
     - role: Technical Writer (Contract)
@@ -101,20 +100,61 @@ experiences:
       company: CodaMetrix, Boston, MA
       details: |
           - Wrote internal- and external-facing documents for AI-driven medical coding software used by radiology, pathology, and other healthcare specialties.
-          - Established templates and a workflow-based release process for pre-sales and implementation documents used by the Support and Professional Services teams.
+          - Established templates and a workflow-based release process for pre-sales and implementation documents used by Support and Professional Services teams.
           - Created and maintained a Confluence space to support the technical writing effort, and documented team resources, projects, tasks, decisions, and meeting notes. 
   
     - role: Technical Writer (Contract)
       time: December 2020 - October 2021
       company: OnPoint Community Credit Union, Portland, OR
       details: |
-          - Wrote more than 200 pages of content for a credit union (CU) core systems conversion project. Topics included process flows, RFP responses, requirements, decisions, and meeting notes.
-          - Owned the documentation processes and tools, and coordinated with business unit managers to determine deliverables and timelines.
+          - Wrote 200+ pages of content for a credit union (CU) core systems conversion project. Topics included process flows, RFP responses, requirements, decisions, and meeting notes.
           - Researched document repository and collaboration tools, and established Confluence as the best option after consulting with key executives and team leaders.
-          - Served as Confluence admin and trained more than 50 stakeholders to effectively use the tool.
-          - Established information architecture, document templates, editorial workflow, and writing guide.
+          - Served as Confluence admin and trained 50+ stakeholders to effectively use the tool.
+          - Defined information architecture, document templates, and editorial standards; coordinated deliverables and timelines with business unit leaders.
           - Participated in and documented due diligence calls with third-party vendors and CU peers.
           - Researched and documented GRC (governance, risk, and compliance) software solutions to help satisfy CFPB and NCUA regulations.
+
+    - role: Product Manager
+      time: June 2014 - July 2019
+      company: RADAR, Portland, OR
+      details: |
+          - Wrote requirements documents, user stories, and acceptance criteria for a SaaS breach response platform used by privacy and security experts.
+          - Drove the UI and UX effort via application mockups and prototypes.
+          - Communicated product status and managed stakeholder expectations via daily stand ups, customer check-ins, and cross-functional team meetings.
+          - Wrote knowledge base articles, release notes, and customer emails.
+          - Frontline tester for customer-facing features and API endpoints.
+          - Created and delivered product training for customers and sales staff.
+          - Listed as inventor on US patents 9,781,147 and 10,331,904.
+
+    - role: Co-founder
+      time: April 2012 - June 2014
+      company: Southwood Labs, Portland, OR
+      details: |
+          - Researched and prioritized product requirements for a SaaS automated testing tool used by testers and developers.
+          - Led the customer development process.
+          - Created key deliverables including competitor research, lean canvas business model, product positioning brief, web site copy, and application mockups.
+          
+    - role: Product Manager
+      time: July 2011 - March 2012
+      company: Monsoon Commerce, Portland, OR
+      details: |
+          - Researched and prioritized product requirements an e-commerce platform used by third-party sellers.
+          - Managed stakeholder expectations around feature scope and delivery timelines.
+          - Wrote product positioning briefs.
+          - Managed beta program.
+
+    - role: Technical Writer | Product Manager
+      time: July 2006 - July 2011
+      company: Site 9, Portland, OR
+      details: |
+          - Researched and prioritized product requirements for a SaaS prototyping and collaboration tool used by designers and developers.
+          - Created high-fidelity application prototypes that facilitated feature and workflow discussions.
+          - Wrote detailed meeting notes, project briefs, user stories, and acceptance criteria.
+          - Wrote first-generation online help system and designed in-app user assistance.
+          - Created complete suite of video tutorials for novice and advanced users.
+          - Created and delivered instructional webinars for customers and Sales staff.
+          - Designed and built a demo project that shipped with the product, and contributed many other usability improvements that enhanced the out-of-box experience.
+          - Managed beta and early-adopter programs.
 
 projects:
     title: Projects
