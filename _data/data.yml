@@ -107,11 +107,11 @@ experiences:
       time: December 2020 - October 2021
       company: OnPoint Community Credit Union, Portland, OR
       details: |
-          - Wrote 200+ pages of content for a credit union (CU) core systems conversion project. Topics included process flows, RFP responses, requirements, decisions, and meeting notes.
+          - Wrote 200+ pages of content for a credit union (CU) core systems conversion project. Topics include process flows, RFP responses, requirements, and decisions.
           - Researched document repository and collaboration tools, and established Confluence as the best option after consulting with key executives and team leaders.
           - Served as Confluence admin and trained 50+ stakeholders to effectively use the tool.
           - Defined information architecture, document templates, and editorial standards; coordinated deliverables and timelines with business unit leaders.
-          - Participated in and documented due diligence calls with third-party vendors and CU peers.
+          - Documented due diligence calls with third-party vendors and CU peers.
           - Researched and documented GRC (governance, risk, and compliance) software solutions to help satisfy CFPB and NCUA regulations.
 
     - role: Product Manager
@@ -163,15 +163,15 @@ projects:
     assignments:
       - title: Curve Fitting Tool
         link: "https://djdeangelis.github.io/curvefit/"
-        tagline: "A static user guide hosted on GitHub and created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
-
-      - title: reStructuredText Primer
-        link: "https://djdeangelis.github.io/reST-primer/"
-        tagline: "A static reference guide hosted on GitHub and created with Sphinx, reStructuredText, and a theme from Read the Docs."
+        tagline: "A static user guide for a data analysis and equation modeling tool. The project is hosted on GitHub and was created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
 
       - title: Fixed-Point Blockset
         link: "https://fiatlux.atlassian.net/wiki/x/AQCyRw"
-        tagline: "A CMS-based documentation project hosted on Confluence that explores key platform features and Atlassian Marketplace apps."
+        tagline: "A CMS-based user guide for a fixed-point modeling and simulation tool. The project is hosted on Confluence and explores key platform features and Atlassian Marketplace apps."
+
+      - title: Evolve Payments
+        link: "https://aviar-industries.gitbook.io/gitbook-demo/"
+        tagline: "A dynamic API reference and user guide and for a fictitious payments platform. The project is hosted on GitBook and uses Markdown files hosted on GitHub."        
 
 patents:
     title: Patents
