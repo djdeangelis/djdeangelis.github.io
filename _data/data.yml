@@ -232,8 +232,8 @@ publications:
 skills:
     title: Software Skills
     details: |
-        **Authoring** -- Confluence, XWiki, Quip, Flare, FrameMaker, Markdown, Git/GitHub, LaTeX <br> 
-        **Productivity** -- AI chatbots, Jira, Trello, OmniFocus, MindNode, ProductPlan, Sublime Text <br>
+        **Authoring** -- Confluence, XWiki, Flare, FrameMaker, Markdown, reStructuredText, LaTeX <br> 
+        **Productivity** -- AI chatbots, Jira, Trello, Git/GitHub, MkDocs, GitBook, VS Code <br>
         **Prototyping** --  Draw.io, Balsamiq, HTML/CSS, Axure RP, OmniGraffle <br>
         **Visual Media** -- Screenflow, Camtasia, Final Cut Pro X, Canva, Visio, SnagIt
 footer: 
