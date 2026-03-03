@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: djdeangelis@protonmail.com
-    phone: 206.200.9648
+    phone: 
     website: #do not add http:// 
     linkedin: 
     github: djdeangelis
@@ -163,11 +163,11 @@ projects:
     assignments:
       - title: Curve Fitting Tool
         link: "https://djdeangelis.github.io/curvefit/"
-        tagline: "A static user guide for a data analysis and equation modeling tool. The project is hosted on GitHub and was created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
+        tagline: "A static site for a data analysis and equation modeling tool. The project is hosted on GitHub and was created with Jekyll, kramdown, MathJax/LaTeX, and a theme from I'd Rather Be Writing."
 
       - title: Fixed-Point Blockset
-        link: "https://fiatlux.atlassian.net/wiki/x/AQCyRw"
-        tagline: "A CMS-based user guide for a fixed-point modeling and simulation tool. The project is hosted on Confluence and explores key platform features and Atlassian Marketplace apps."
+        link: "https://djdeangelis.github.io/fpbs/"
+        tagline: "A static site for a fixed-point modeling and simulation tool. The project is hosted on GitHub and was created with Material for MkDocs, Markdown, and MathJax/LaTeX "
 
       - title: Evolve Payments
         link: "https://aviar-industries.gitbook.io/gitbook-demo/"
